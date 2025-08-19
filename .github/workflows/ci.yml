@@ -38,4 +38,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/SolankiDev12/nodejs-ci-lab:${{ github.sha }}
+          tags: ghcr.io/solankidev12/nodejs-ci-lab:${{ github.sha }}
